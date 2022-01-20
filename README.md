@@ -1,2 +1,2 @@
 # VarSuperPC
-Variable Instruction Superscalar Processor
+Please refer to "master" branch.
